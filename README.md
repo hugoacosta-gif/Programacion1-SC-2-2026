@@ -115,12 +115,14 @@ Accede a los recursos preparados por el docente:
 - Los comentarios en el código están en **español** para facilitar la comprensión del estudiante.
  
 ---
- 
+
 ## 👨‍🏫 Docente
  
-**Msc. Ing. Víctor Hugo Acosta Ortega**  
-Docente de Programación I — FICCT, UAGRM  
+**Msc. Ing. Victor Hugo Acosta Ortega**
+Docente de Programación I y Sistemas Operativos I - FICCT, UAGRM
 Santa Cruz de la Sierra, Bolivia
+[hugonex.com](https://hugonex.com/)
+[kermex.net](https://kermex.net/)
  
 ---
  
