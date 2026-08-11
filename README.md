@@ -19,7 +19,7 @@ El objetivo de la materia es enseñar **lógica de programación y POO** utiliza
  
 | Sigla | Grupo | Horario | Aula/Lab |
 |-------|--------|---------|---------|
-| INF120 | **SH** | Mar, Jue / 16:00 - 18:15 | 232-22 y 232-45 |
+| INF120 | **SH** | Mar, Jue / 16:00 - 18:15 | 236-22 y 236-45 |
  
  
 ---
