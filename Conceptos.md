@@ -1,4 +1,4 @@
-# 🦀 Programación I — Grupos SC
+# 🦀 Programación I — Grupos SH
  
 > **FICCT · UAGRM** · Santa Cruz de la Sierra, Bolivia  
 > **Docente:** Msc. Ing. Víctor Hugo Acosta Ortega  
