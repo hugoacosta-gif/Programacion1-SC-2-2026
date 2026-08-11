@@ -118,10 +118,10 @@ Accede a los recursos preparados por el docente:
 
 ## 👨‍🏫 Docente
  
-**Msc. Ing. Victor Hugo Acosta Ortega**
-Docente de Programación I y Sistemas Operativos I - FICCT, UAGRM
-Santa Cruz de la Sierra, Bolivia
-[hugonex.com](https://hugonex.com/)
+**Msc. Ing. Victor Hugo Acosta Ortega**  
+Docente de Programación I y Sistemas Operativos I - FICCT, UAGRM  
+Santa Cruz de la Sierra, Bolivia  
+[hugonex.com](https://hugonex.com/)  
 [kermex.net](https://kermex.net/)
  
 ---
