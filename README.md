@@ -15,7 +15,7 @@ El objetivo de la materia es enseñar **lógica de programación y POO** utiliza
  
 ---
  
-## 🏫 Grupos
+## 🏫 Materia
  
 | Sigla | Grupo | Horario | Aula/Lab |
 |-------|--------|---------|---------|
