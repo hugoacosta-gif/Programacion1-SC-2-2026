@@ -60,8 +60,41 @@ fn main() {
 
     let temp: f32 = 20.5;    
     println!("La temperatura de {} grados centígrados, es igual a {} grados fahrenheit.", temp, caf(temp));
+
+    println!("El IMC de una altura de: 1,76 mts y un peso de 80 kg. es: {}", imc(80.0, 1.76));
+    println!("|||------------------|||");
+
+    println!("El resultado elevar a 2, el número 4 es: {}", exp(2, 4));
+    println!("|||------------------|||");
+
+    println!("El resultado elevar a 3, el número 3 es: {}", expo(3, 3));
 }
 
 fn caf(c: f32) ->f32 {
     (c * 1.8) + 32.0
+}
+
+//Función que calcule el IMC de una persona.
+// IMC = Peso / Altura al cuadrado.
+
+fn imc(peso: f64, altura: f64) -> f64 {
+    if altura <= 0.0 {
+        panic!("La altura debe ser mayor que cero");
+    }
+    peso / (altura * altura) // La división en RUST. siyo uso el operador (/) me devuelve el cociente.
+    //Si yo uso el operador (%) me devuelve el residuo.
+}
+
+//Calcular el exponente "n" de un número: Ej: base=3 elevado al exponente=3 (n) = 3*3*3 = 27.
+
+fn exp(base: u32, exponente: u32) -> u32 {
+    let mut x = base;
+    for _i in 1..exponente {
+        x *= base; //la primer vuelta base = 9 - la 2da vuelta multiplicaba 9*9 = 81
+    }
+    x
+}
+
+fn expo(base: u32, exponente: u32) -> u32 {
+    base.pow(exponente)
 }
